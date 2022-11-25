@@ -10,3 +10,13 @@ Main idea: As one of the most complex and time consuming processes in chip desig
 
 
 http://www.openreview.net/pdf?id=Syx7A3NFvH
+
+[11 Nov 2022]
+Controlling Commercial Cooling Systems Using Reinforcement Learning
+[Paper](https://arxiv.org/pdf/2211.07357.pdf)
+This paper is a technical overview of DeepMind and Google’s recent work on reinforcement learning for
+controlling commercial cooling systems. Building on expertise that began with cooling Google’s data
+centers more efficiently, we recently conducted live experiments on two real-world facilities in partnership with Trane Technologies, a building management system provider. These live experiments had a variety of challenges in areas such as evaluation, learning from offline data, and constraint satisfaction.
+Our paper describes these challenges in the hope that awareness of them will benefit future applied RL
+work. We also describe the way we adapted our RL system to deal with these challenges, resulting in
+energy savings of approximately 9% and 13% respectively at the two live experiment sites.
